@@ -1,5 +1,3 @@
-# Single-cell README generator for your Colab project
-readme_content = """
 # Real-Time Weather Data Integration & Analytics Pipeline
 
 ## 🚀 Overview
