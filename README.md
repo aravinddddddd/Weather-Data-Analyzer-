@@ -48,7 +48,3 @@ It fetches live weather data for multiple cities from the *OpenWeather API, vali
 
 ---
 
-
-    f.write(readme_content)
-
-print("✅ README.md created successfully in your Colab environment!")
